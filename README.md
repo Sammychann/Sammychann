@@ -18,7 +18,7 @@
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/samihan-narayankeri" target="blank">
+  <a href="www.linkedin.com/in/samihan-narayankeri-4a205328b" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samihan narayankeri" height="30" width="40" />
   </a>
 </p>
