@@ -12,7 +12,7 @@
 - 💬 Ask me about **Machine Learning, Data Science, and Python**
 - 📫 Reach me at: **narayankerisamihan@gmail.com**
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1yl-YbPmUzNfhBxdV1za6ziplHxrUESeO/view?usp=sharing)
-- ⚡ Fun fact: **I optimize everything—from database queries to how I load the dishwasher.**
+- ⚡ Fun fact: **I sing all the time.**
 
 ---
 
