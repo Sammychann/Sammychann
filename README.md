@@ -1,78 +1,93 @@
 <div align="center">
 
-<!-- Capsule Render Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=200&section=header&text=Samihan%20Narayankeri&fontSize=45&fontColor=050508&animation=fadeIn" width="100%"/>
-
-### AI / ML Engineer & Full-Stack Developer
-
-*Building intelligent systems that reason, plan, and act · IEEE Published Researcher*
+<!-- Animated typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Samihan;AI+%2F+ML+Engineer+in+the+making;Building+systems+that+think;Agentic+AI+explorer;Also...+I+sing+all+the+time+%F0%9F%8E%B5)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-00F2FE?style=for-the-badge&logoColor=050508)](https://portfolio-website-fd1dwdrn0-samihans-projects.vercel.app/)
+*Turning data into decisions · Building agents that act · Shipping things that work*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-1D9E75?style=for-the-badge&logoColor=white)](https://portfolio-website-fd1dwdrn0-samihans-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samihan-narayankeri-4a205328b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narayankeris@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/night4ry/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/night4ry)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sammychann&style=for-the-badge&color=1D9E75&label=PROFILE+VIEWS)](https://github.com/Sammychann)
 
 </div>
 
 ---
 
-## ⚡ Overview
+## ⚡ What I'm About
 
 ```python
 samihan = {
-    "field"       : "Artificial Intelligence & Data Science",
-    "focus"       : ["Agentic AI", "LLM Pipelines", "High-Throughput Backends"],
-    "research"    : "2 IEEE Publications (PuneCon '25, CCGE '26 Best Paper Award)",
-    "hackathons"  : ["Winner @ Infineon Agentic AI", "Winner @ Vizathon 3.0"],
-    "portfolio"   : "https://portfolio-website-fd1dwdrn0-samihans-projects.vercel.app/",
-    "reach_me"    : "narayankeris@gmail.com"
+    "focus"      : ["Machine Learning", "Agentic AI", "Data Science"],
+    "currently"  : "Building systems that reason, plan & act",
+    "ask_me"     : ["ML", "Python", "Data pipelines", "AI agents"],
+    "fun_fact"   : "I sing. Literally all the time. 🎵",
+    "reach_me"   : "narayankeris@gmail.com"
 }
 ```
 
 ---
 
-## 🛠️ Technical Stack
+## 🧠 ML / AI
 
-<div align="center">
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-### Languages & Core Tech
-[![Skill Icons](https://skillicons.dev/icons?i=python,cpp,js,html,css,postgres,mongodb,mysql,aws,docker,git,react,nodejs,express,flask)](https://skillicons.dev)
+## 💻 Languages
 
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-<br/>
+## 🌐 Web & Backend
 
-| Category | Skills & Tools |
-|---|---|
-| **AI / Machine Learning** | Machine Learning, LLM Pipelines, RAG Architecture, Agentic Workflows, PyTorch, TensorFlow, scikit-learn, LangChain, MCP Protocol |
-| **Web & Backend** | React.js, Node.js, Express.js, Flask, Streamlit, REST APIs, TimescaleDB, PostGIS |
-| **Data & Analytics** | Power BI, Tableau, SQL, Pandas, NumPy, Matplotlib, Seaborn, Plotly |
-| **DevOps & Cloud** | AWS, Docker, Kubernetes, Git, GitHub Actions |
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
----
+## 🗄️ Databases & Cloud
 
-## 🚀 Featured Projects
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
-- **[RFP-Responder](https://github.com/Sammychann/RFP-Responder)** — AI-Powered RFP Analysis System for clause extraction, risk scoring, and compliance gap detection.
-- **[ReAdmit.AI](https://github.com/Sammychann/Readmit.Ai)** — Patient Readmission Risk Microservice (Random Forest engine, Express + React, Gemini API with LangChain).
-- **[BugHunter](https://github.com/Sammychann/BugHunter-Sam)** — Agentic C++ Bug Detection System (hybrid rule engine + LLM fallback + AST parsing + MCP).
+## 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
 ## 📊 GitHub Performance
 
 <div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sammychann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=1D9E75&icon_color=1D9E75" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sammychann&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1D9E75" height="170"/>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sammychann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=050508&title_color=00F2FE&icon_color=00F2FE" height="175" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammychann&layout=compact&theme=tokyonight&hide_border=true&bg_color=050508&title_color=00F2FE" height="175" />
+<br/>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sammychann&theme=tokyonight&hide_border=true&background=0d1117&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" width="60%"/>
 </div>
 
 ---
-
-<div align="center">
-  <sub>Designed & Developed by Samihan Narayankeri</sub>
-</div>
